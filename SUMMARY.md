@@ -2,10 +2,10 @@
 
 * [내블로그](README.md)
 
-## 프로그래밍 언어
+## Language
 
-* [Python](undefined/python.md)
-* [C](undefined/c.md)
+* [Python](language/python.md)
+* [C](language/c.md)
 
 ## CS
 
